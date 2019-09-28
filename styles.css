@@ -1,0 +1,12 @@
+body {
+  font-family: "Helvetica", sans-serif;
+}
+
+h2 {
+  color: #7A0019;
+}
+
+#contact {
+  background-color: #FFDE7A;
+  padding: 2%;
+}
