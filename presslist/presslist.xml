@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<presslist> 
+
+     <med type="vid">
+        <title> MAKERS Confernce </title>
+        <publisher> MAKERS </publisher>
+        <author> Nadya Okamoto </author>
+        <date> 5/28/2019 </date>
+    </med>    
+    <med type="writ">
+        <title> Activists call on Education Department to take action for ‘menstrual equity’ </title>
+        <publisher> The Washington Post </publisher>
+        <author> Morgan Smith and Valerie Strauss </author>
+        <date> 1/28/2019 </date>
+    </med>
+    <med type="writ">
+        <title> FemBeat: Period Poverty Is A Thing, Even In The U.S. </title>
+        <publisher> Forbes </publisher>
+        <author> Bérénice Magistretti </author>
+        <date> 1/25/2019 </date>
+    </med>
+     <med type="writ">
+        <title> Why Its Good to Talk About Menstruation </title>
+        <publisher> Teen Vogue </publisher>
+        <author> Nadya Okamoto </author>
+        <date> 10/25/2018 </date>
+    </med>
+     <med type="writ">
+        <title> The Power of Period Humor </title>
+        <publisher> Medium </publisher>
+        <author> Nadya Okamoto </author>
+        <date> 9/27/2018 </date>
+    </med>
+     <med type="pod">
+        <title> Nadya Okamoto is a Young Workaholic - and a Star </title>
+        <publisher> The Pantsuit Nation Podcast  </publisher>
+        <author> </author>
+        <date> 2/8/2018 </date>
+    </med>
+     <med type="writ">
+        <title> 21 Under 21 2017: See Photos and the Full List </title>
+        <publisher> Teen Vogue </publisher>
+        <author> </author>
+        <date> 12/15/2017 </date>
+    </med>
+     <med type="vid">
+        <title> Hillary Clinton On Why She’s Not Running For President Again </title>
+        <publisher> Teen Vogue </publisher>
+        <author> </author>
+        <date> 11/28/2017 </date>
+    </med>
+     <med type="writ">
+        <title> We Gave 4 Inspiring Women a Stunning Makeover </title>
+        <publisher> Oprah </publisher>
+        <author> Melissa Goldberg and Holly Carter </author>
+        <date> 10/24/2017 </date>
+    </med>
+     <med type="writ">
+        <title> Local teen Nadya Okamoto runs for public office in Massachusetts </title>
+        <publisher> Portland Tribune </publisher>
+        <author> Lyndsey Hewitt </author>
+        <date> 3/29/2017 </date>
+    </med>
+     <med type="vid">
+        <title> TEDx Portland 2016 </title>
+        <publisher> TEDx </publisher>
+        <author> </author>
+        <date> 5/21/2016</date>
+    </med>
+     <med type="writ">
+        <title> 5 talks at TEDxPortland 2016 worth the price of admission </title>
+        <publisher> The Oregonian </publisher>
+        <author> Dillon Pilorget </author>
+        <date> 3/24/2016 </date>
+    </med>
+     <med type="writ">
+        <title> Essential, common, but so hard to find </title>
+        <publisher> Street Roots News </publisher>
+        <author> Ann-Derrick Gaillot </author>
+        <date> 2/20/2015</date>
+    </med>
+</presslist>
