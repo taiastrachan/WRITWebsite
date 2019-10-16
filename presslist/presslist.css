@@ -1,7 +1,30 @@
 presslist{
+    font-family: Arial, Helvetica, sans-serif;
     background-color:#FFC9E7;
 }
 
-    med {
-    font-family: Arial, Helvetica, sans-serif;
+med {
+    width: 95%px;
+	display: block;
+	padding: 10pt;
+    margin: 5px;
+  background-color: #F5EAE8;
+	text-align: left;
+}
+title {
+    font-weight: bold;
+    font-size: 100%;
+    margin-bottom: 3%;
+}
+publisher {
+    font-size: 90%;
+
+}
+author {
+    font-size: 90%;
+
+}
+date {
+    font-size: 90%
+    margin-top: 3%;
 }

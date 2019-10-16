@@ -1,6 +1,6 @@
 <!ELEMENT presslist (med+)>
 <!ELEMENT med (title+, publisher?, author*, date?)>
-<!ATTLIST med type (vid|pod|writ) #IMPLIED>
+<!ATTLIST med type (vid|pod|writ) #REQUIRED>
 <!ELEMENT title (#PCDATA)>
 <!ELEMENT publisher (#PCDATA)>
 <!ELEMENT author (#PCDATA)>

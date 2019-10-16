@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
+<!DOCTYPE presslist SYSTEM "presslist.dtd">
+<?xml-stylesheet type="text/css" href="presslist.css" ?>
 <presslist> 
 
      <med type="vid">
