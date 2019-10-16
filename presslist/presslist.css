@@ -15,16 +15,22 @@ title {
     font-weight: bold;
     font-size: 100%;
     margin-bottom: 3%;
+    color: red;
 }
 publisher {
     font-size: 90%;
-
+    color: black;
 }
+published by::before {content: "publisher"}
+
 author {
     font-size: 90%;
-
+    color: black;
 }
 date {
     font-size: 90%
     margin-top: 3%;
+    color: black;
+published on::before {content: "date"}
+
 }
