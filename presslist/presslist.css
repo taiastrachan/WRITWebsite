@@ -14,23 +14,22 @@ med {
 title {
     font-weight: bold;
     font-size: 100%;
-    margin-bottom: 3%;
+    margin-bottom: 1%;
+    display: block;
     color: red;
 }
 publisher {
     font-size: 90%;
     color: black;
 }
-published by::before {content: "publisher"}
+publisher::before {content: "Published in: "}
 
 author {
     font-size: 90%;
     color: black;
 }
+author::before {content: "By: "}
 date {
-    font-size: 90%
-    margin-top: 3%;
+    font-size: 90%;
     color: black;
-published on::before {content: "date"}
-
-}
+    margin-top: 3%;}
